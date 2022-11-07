@@ -19,7 +19,7 @@ To run a Flask deployment tests, run the following command
 
 To run a Heroku deployment tests, click on the following link:
 
-[Netflix Recommender System App](https://netflixrecommenderapp.herokuapp.com/)
+[Netflix Recommender System App](https://netflixrecommendersystem.herokuapp.com/)
 
 
 ## Deployment
